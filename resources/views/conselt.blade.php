@@ -1,7 +1,7 @@
 @extends("theme")
 
 @section("content")
-
+<body background="https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"  style="height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;">
   <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
     <div class="container-fluid">
       <a class="navbar-brand" href="#" style="font-family: Georgia, 'Times New Roman', Times, serif;"><MARQUEE style="font-family: Georgia, 'Times New Roman', Times, serif;">
@@ -45,5 +45,6 @@
                 </label>  
             </table>
         </div>
+</body>        
 
 @endsection
