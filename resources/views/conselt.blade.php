@@ -19,7 +19,7 @@
         <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6"> 
             <br>
             <h1>
-                Enquiry/Feedback
+                Consulting Form
             </h1>
             <br>
             <table class="table">
